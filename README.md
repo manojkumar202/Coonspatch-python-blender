@@ -7,4 +7,5 @@ boundary of your Coons patch. After you load the points from the files you shoul
 render it in Blender.
 
 The following is the result of coons patch from four bezier curves.
-![output.png](ouput.png)
+
+![output.png](output.png)
